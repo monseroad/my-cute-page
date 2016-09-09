@@ -1,0 +1,73 @@
+nav{
+   height: 10%;
+}
+a{
+	text-decoration: none;
+}
+.header{
+	background-image: url("../images/background.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 -10px;
+    height: 480px;
+    /*position: relative;*/
+}
+.logo{
+	padding-top: 10%;
+	margin-left: 50%;
+}
+.color{
+	color: white;
+	text-align: center;
+	font-family: "Calibri";
+}
+h1{
+	padding-top: 5%;
+	padding-left: 5%;
+}
+h4{
+	padding-left: 5%;
+	padding-top: -2%;
+}
+.pink{
+	color: #9e379f;
+	padding-left: 50%;
+	font-family: "Calibri";
+	font-size: 140%;
+	padding-top: 3%;
+}
+.yo{
+	padding: 10%;
+    width: 80%;
+    height: 90%;
+}
+.texto{
+	margin-top: 5%;
+	text-align: center;
+}
+h3{
+	padding-top: 1%;
+	padding-bottom: 3%;
+}
+.love{
+	background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    border: 8px #9e379f double;
+}
+.padding{
+	padding-left: 6%;
+	padding-bottom: 4%;
+}
+.contact{
+	padding-left: 25%;
+	padding-top: 10%;
+}
+.centrar{
+	padding-left: 35%;
+	background-color: #e5dfdf;
+}
+.iconos{
+	margin: 5%;
+}
